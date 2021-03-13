@@ -1,6 +1,7 @@
 {
-  "name": "thinkific-oauth-pkce-vuejs-example",
-  "version": "0.1.0",
+  "name": "thinkific-oauth-vuejs-starter",
+  "description": "A starter application with OAuth authorization",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
